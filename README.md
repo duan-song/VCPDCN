@@ -66,7 +66,7 @@ baidu Netdisk
 ### Contact
 Feel free to send e-mails to me (duanss@stu.xidian.edu.cn).
 ``` bibtex
-@inproceedings{duan2025DIH,
+@inproceedings{duan2026VCPDCN,
   title={VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection},
   author={Duan, Songsong and Yang, Xi and Wang, Nannan},
   booktitle={ECCV},
