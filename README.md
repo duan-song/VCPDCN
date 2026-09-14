@@ -76,7 +76,7 @@ Feel free to send e-mails to me (duanss@stu.xidian.edu.cn).
 ```
 
 ## Ackonwledge
-Many thanks for Depth Anything: [[paper]](https://arxiv.org/pdf/2401.10891) [[Project]](https://depth-anything.github.io/)
+Many thanks for Depth Anything: [[paper]](https://arxiv.org/pdf/2401.10891)
 ``` bibtex
 @article{yang2024depth,
   title={Depth anything v2},
@@ -88,7 +88,7 @@ Many thanks for Depth Anything: [[paper]](https://arxiv.org/pdf/2401.10891) [[Pr
 }
 ```
 
-Many thanks for VMamba: [[paper]](https://arxiv.org/pdf/1801.04381)
+Many thanks for VMamba: 
 ``` bibtex
 @article{liu2024vmamba,
   title={Vmamba: Visual state space model},
