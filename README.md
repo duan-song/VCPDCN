@@ -21,7 +21,7 @@ Official PyTorch Implementation of VCP-DCN: Beyond Visual Concealed Property via
 ![fig1.png](figs/method.png)
 
 ## Performance 
-We perform quantitative comparisons and qualitative comparisons with 16 RGB-D SOD methods on five RGB-D datasets.
+We perform quantitative comparisons and qualitative comparisons with 16 COD methods on three COD datasets.
 ![fig1.png](figs/performance.png)
 
 ## Foreground Maps and Parameter
